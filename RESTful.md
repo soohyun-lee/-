@@ -1,6 +1,7 @@
 ## RESTful API
 
 * REST : Respresentational State Transfer(대표적인 상태 전달)
+  * RESTful API는 REST라는 아키텍처를 구현하는 웹 서비스를 나타내기 위해 사용하는 용어이며 REST원리를 따르는 시스템이다
 
   - 월드 와이드 웹과 같은 분산 하이퍼미디어 시스템을 위한 소프트웨어 개발 아키텍처의 한 형식
     - 웹의 기존 기술과 HTTP 프로토콜을 그대로 활용하기 때문에 웹의 장점을 최대한 활용할 수 있는 형식
